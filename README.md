@@ -1,5 +1,9 @@
 # ft_linux
 
+## What is this?
+
+This project is a 42 school project aiming to create a LFS system v8.4 for driver development. The goal is to create a declarative and deterministic environment for building custom LFS on the machine host natively to create a live bootable disk image.
+
 ## How to use:
 `sudo nix develop` to enter the dev shell as root
 
